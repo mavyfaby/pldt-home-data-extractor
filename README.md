@@ -1,2 +1,10 @@
 # pldt-home-data-extractor
-Show your current remaining data on your PLDT HOME PREPAID WIFI
+
+> Display the remaining PLDT Home PREPAID WIFI data
+
+Install the required modules:
+
+```bash
+$ pip3 install -r requirements.txt
+```
+
