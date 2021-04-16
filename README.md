@@ -27,3 +27,5 @@ Screenshot:
 
 ## License
 Licensed under MIT.
+
+Copyright (c) 2020 Maverick G. Fabroa
