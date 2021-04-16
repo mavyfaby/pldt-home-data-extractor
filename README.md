@@ -1,4 +1,4 @@
-# pldt-home-data-extractor
+# pldt-home-data-viewer
 
 > Display the remaining PLDT Home PREPAID WIFI data
 
